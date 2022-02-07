@@ -1,0 +1,6 @@
+{
+    "name": "smeedijzer-online/helper",
+    "description": "Smeedijzer helper functions for WordPress",
+    "type": "wordpress-plugin",
+    "require": {}
+}
